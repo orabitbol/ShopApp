@@ -1,0 +1,93 @@
+.header_menu {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.position {
+    margin: 0px 40px 0px 0px;
+    flex-direction: column;
+    display: flex;
+
+}
+
+.header-menu-header_list {
+    list-style: none;
+    display: flex;
+    padding: 100px 0px 0px 0px;
+}
+
+a {
+    color: #3f9ad3 !important;
+}
+
+
+.communication_photography_wapper {
+    cursor: pointer;
+}
+
+.computer_wapper {
+    cursor: pointer;
+}
+
+.appliances_wapper {
+    cursor: pointer;
+}
+
+.vehicle_accessories_wapper {
+    cursor: pointer;
+}
+
+.communication_photography {
+    background: url('./img/Communication_photography.png');
+    height: 75px;
+    width: 110px;
+
+}
+
+.communication_photography:hover {
+    background: url('./img/Communication_photography_hover.png');
+    height: 75px;
+    width: 110px;
+}
+
+.computer {
+    background: url('./img/Computer.png');
+    height: 75px;
+    width: 110px;
+
+}
+
+.computer:hover {
+    background: url('./img/Computer_hover.png');
+    height: 75px;
+    width: 110px;
+
+}
+
+.appliances {
+    background: url('./img/Appliances.png');
+    height: 75px;
+    width: 110px;
+}
+
+.appliances:hover {
+    background: url('./img/Appliances_hover.png');
+    height: 75px;
+    width: 110px;
+
+}
+
+.vehicle_accessories {
+    background: url('./img/Vehicle_accessories.png');
+    height: 75px;
+    width: 110px;
+}
+
+.vehicle_accessories:hover {
+    background: url('./img/Vehicle_accessories_hover.png');
+    height: 75px;
+    width: 110px;
+
+}

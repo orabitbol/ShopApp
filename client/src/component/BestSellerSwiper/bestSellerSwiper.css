@@ -1,0 +1,106 @@
+.best-seller-swiper-wapper {}
+
+.title-wapper {
+    display: flex;
+    justify-content: center;
+}
+
+.line {
+    background-color: #f3f4f3;
+    height: 5px;
+    width: 1000px;
+}
+
+.title {
+    font-size: 35px;
+    font-family: bold;
+    color: #3e89b6;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-position {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 0px 0px;
+}
+
+.best-seller-swiper {
+    background: #f3f4f3;
+    border: solid 6px;
+    margin: 0px 180px 0px 180px;
+    border-color: #ebeaea;
+}
+
+.swiper-wrapper {
+    height: 264px;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: black !important;
+}
+
+.mySwiper {}
+
+.swiper-items {
+    background: #f3f4f3;
+    height: 100%;
+    width: 100%;
+}
+
+.text-button:hover {
+    background: red;
+    width: 100%;
+    height: 100%;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    color: #707070;
+    font-size: 16px;
+    margin: 0px 60px 0px 60px;
+
+}
+
+.button-style {
+    width: 250px;
+    height: 32px;
+    background-color: #3f9ad3;
+    border: solid 1px;
+    border-radius: 11px;
+    border-color: #3f9ad3;
+}
+
+.price {}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #f3f4f3;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

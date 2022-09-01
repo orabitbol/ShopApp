@@ -1,0 +1,9 @@
+.header-search{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 0px 0px;
+}
+
+.react-search-field{
+    width: 500px;
+} 

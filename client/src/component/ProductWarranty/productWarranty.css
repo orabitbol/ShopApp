@@ -1,0 +1,50 @@
+.product-warranty {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 0px 0px;
+}
+
+.product-warranty-header-list {
+    display: flex;
+    list-style: none;
+}
+
+.return-money-wapper {}
+.return-money{
+    display: flex;
+}
+
+
+
+.customer-service-wapper {
+    padding-left: 50px;
+}
+
+.customer-service{
+    display: flex;
+}
+
+.quality-products-wapper {
+    padding-left: 50px;
+}
+.quality-products{
+    display: flex;
+}
+
+
+
+.secure-purchase-wapper {
+    padding-left: 50px;
+}
+.secure-purchase{
+    display: flex;
+}
+.position-product-warranty{
+    text-align: center;
+    padding: 20px 7px 0px 0px;
+    text-decoration: none;
+    color: black !important;
+}
+
+
+
